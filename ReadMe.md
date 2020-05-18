@@ -1,1 +1,1 @@
-ÕâÊÇÒ»¸ö.Net Core°æ±¾µÄ¹ØÓÚSignalRµÄDemo
+è¿™æ˜¯ä¸€ä¸ª.Net Coreç‰ˆæœ¬çš„å…³äºŽSignalRçš„Demo
