@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InstantMessage.Common/1.0.0": {
+        "dependencies": {
+          "NLog": "4.7.1",
+          "Snowflake.Core": "2.0.0"
+        },
+        "runtime": {
+          "InstantMessage.Common.dll": {}
+        }
+      },
+      "NLog/4.7.1": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.1.11754"
+          }
+        }
+      },
+      "Snowflake.Core/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Snowflake.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InstantMessage.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t2iJR+RvF6YJr4sHjF2z9Fsd/HE5olOTPLKonR6sjqLP2bgG0oJE5J4cR92WJwdyS6UJx/iLdefNGM2dV2ptLQ==",
+      "path": "nlog/4.7.1",
+      "hashPath": "nlog.4.7.1.nupkg.sha512"
+    },
+    "Snowflake.Core/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YB4SqYbTgG6UvwFHFZOWny/pE415KNjRbbiGwfPOUDWUCEjYLB9P11EiIHQ7y6LlkjejVAAIi8Wt3WM7Ys9qyw==",
+      "path": "snowflake.core/2.0.0",
+      "hashPath": "snowflake.core.2.0.0.nupkg.sha512"
+    }
+  }
+}

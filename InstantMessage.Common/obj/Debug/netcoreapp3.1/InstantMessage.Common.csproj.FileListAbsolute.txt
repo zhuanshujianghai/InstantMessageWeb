@@ -1,0 +1,9 @@
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\bin\Debug\netcoreapp3.1\InstantMessage.Common.deps.json
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\bin\Debug\netcoreapp3.1\InstantMessage.Common.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\bin\Debug\netcoreapp3.1\InstantMessage.Common.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.csprojAssemblyReference.cache
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.AssemblyInfoInputs.cache
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.AssemblyInfo.cs
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Common\obj\Debug\netcoreapp3.1\InstantMessage.Common.csproj.CoreCompileInputs.cache

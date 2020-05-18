@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+h0Irbuw77M/GhewKCG68Pl8jHu8JJBA3d9a+wrm7ZoGWTHXu1RC0NtuPta/8BwWe0AK7TBJYV63nJrxFtDYfg==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\mynet\\InstantMessage.Web\\InstantMessage.Common\\InstantMessage.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\nlog\\4.7.1\\nlog.4.7.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\snowflake.core\\2.0.0\\snowflake.core.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

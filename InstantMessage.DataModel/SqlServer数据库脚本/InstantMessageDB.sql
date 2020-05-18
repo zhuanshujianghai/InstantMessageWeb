@@ -1,0 +1,26 @@
+CREATE TABLE Members
+(
+	Id BIGINT PRIMARY KEY NOT NULL,
+	UserName NVARCHAR(20) NOT NULL,--用户名
+	ImageUrl NVARCHAR(100) NULL,--头像
+	ConnectionID VARCHAR(50) NOT NULL,--连接ID
+	CreateTime DATETIME NOT NULL,--创建时间
+	UpdateTime DATETIME NULL--修改时间
+)
+
+CREATE TABLE Messages
+(
+	Id BIGINT PRIMARY KEY IDENTITY(1,1),
+	FromMemberId BIGINT NOT NULL,--发送人ID
+	ToMemberId BIGINT NOT NULL,--接收人ID
+	Message NVARCHAR(500) NOT NULL,--消息
+	CreateTime DATETIME NOT NULL --创建时间
+)
+
+
+
+
+
+
+
+

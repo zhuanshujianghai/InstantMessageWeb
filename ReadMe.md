@@ -1,0 +1,1 @@
+这是一个.Net Core版本的关于SignalR的Demo

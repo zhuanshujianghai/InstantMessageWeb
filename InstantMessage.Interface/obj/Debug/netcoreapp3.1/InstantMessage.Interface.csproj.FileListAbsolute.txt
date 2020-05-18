@@ -1,0 +1,14 @@
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.Interface.deps.json
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.Interface.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.Interface.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.csprojAssemblyReference.cache
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.csproj.CoreCompileInputs.cache
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.AssemblyInfoInputs.cache
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.AssemblyInfo.cs
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.Common.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.DataModel.dll
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.Common.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\bin\Debug\netcoreapp3.1\InstantMessage.DataModel.pdb
+E:\projects\mynet\InstantMessage.Web\InstantMessage.Interface\obj\Debug\netcoreapp3.1\InstantMessage.Interface.csproj.CopyComplete
